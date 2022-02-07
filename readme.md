@@ -435,7 +435,7 @@ server.listen(PORT, () => console.log(`Server running on port ${PORT}`));
 
 ```
 
-### **Deployment Steps for hiroku**
+### **Deployment Steps for heroku**
 ```
 1. Install Heroku cli.
 2. bash$ heroku login
